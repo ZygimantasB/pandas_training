@@ -3,9 +3,11 @@
 
 # Data set types
 
-.csv
-.xlsx
-.html
+*.csv
+*.xlsx
+*.html
+*.parquet
+*.png
 
 ### JetBrains ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
