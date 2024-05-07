@@ -2,13 +2,14 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,pycharm+all,pycharm+iml,pycharm,jupyternotebooks,virtualenv,venv,jetbrains,jetbrains+iml,jetbrains+all,python
 
 # Data set types
-
+*..csv
 *.csv
 *.xlsx
 *.html
 *.parquet
 *.png
 *.txt
+*.pkl
 
 ### JetBrains ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
