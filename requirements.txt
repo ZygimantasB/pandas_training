@@ -1,6 +1,4 @@
-bitcoin==1.1.42
 blinker==1.7.0
-blockcypher==1.0.93
 certifi==2024.6.2
 charset-normalizer==3.3.2
 click==8.1.7
